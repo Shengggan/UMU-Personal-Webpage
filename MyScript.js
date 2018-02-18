@@ -1,4 +1,4 @@
-window.alert("Hello there...Press enter to proceed");
+window.alert("Hello there...Press OK to proceed");
 
 function changeText() {
 	document.getElementById("demo").innerHTML = "The Beast from the East";
